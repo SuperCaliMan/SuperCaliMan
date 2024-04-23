@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Alberto
-
+Here's my playground, where you can discover some of the projects that have helped me to learn new skills and have fun with new technologies
 <!--
 **SuperCaliMan/SuperCaliMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: albertocaliman@gmail.com
+- 👨🏻‍💻 Mobile Developer at Texa
+- ⚡ Founder and contributor of [Togerod](https://play.google.com/store/apps/details?id=com.togerod.android)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - -->
-
-<br><br><br><br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=supercaliman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox" />   <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercaliman&hide_title=true&layout=compact&theme=gruvbox" /> 

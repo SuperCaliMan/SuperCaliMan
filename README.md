@@ -1,4 +1,4 @@
-### Hi 👋 I'm Alberto
+### Ciao 👋 I'm Alberto
 Here's my playground, where you can discover some of the projects that have helped me to learn new skills and have fun with new technologies
 <!--
 **SuperCaliMan/SuperCaliMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
